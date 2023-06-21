@@ -87,9 +87,9 @@ def main():
     3. Interpretation: After the analysis is complete, the tool will provide you with the likelihood of the child having autism based on their facial landmarks, compared against faces from the trained datasets of other autistic and non-autistic children's faces. Please remember that this tool is for informational purposes only and should not be used as a diagnostic tool. A formal diagnosis of autism should be made by a qualified healthcare professional.
 
     Interpretation of Scores:
-    - Score below 0.3: Indicates a lower likelihood of ASD-related facial features.
-    - Score between 0.3 and 0.7: Suggests a moderate likelihood of ASD-related facial features.
-    - Score above 0.7: Indicates a higher likelihood of ASD-related facial features.
+    - Score below 30%: Indicates a lower likelihood of ASD-related facial features.
+    - Score between 30% to 70%: Suggests a moderate likelihood of ASD-related facial features.
+    - Score above 70%: Indicates a higher likelihood of ASD-related facial features.
 
             ''')
 
