@@ -103,8 +103,9 @@ def main():
 
             # Perform facial assessment using the API
             result = get_prediction(uploaded_file)
-            probability = result["prediction"][0][0]
-            st.subheader(f'Probability of Autism: {probability}')
+            probability_percentage = round(result["prediction"][0][0] * 100, 2)
+            st.subheader(f'Probability of Autism: {probability_percentage}%')
+
 
     elif page == 'About':
         st.markdown('''
