@@ -21,7 +21,7 @@ def get_prediction(image_bytes):
 
 def main():
     # Load the logo image
-    logo_image = Image.open("/Users/annabachmann/code/bakiery/REAL-autism-frontend/autistic_logo_light.png")
+    logo_image = Image.open("autistic_logo_light.png")
 
     # Resize the logo image
     current_width, current_height = logo_image.size
