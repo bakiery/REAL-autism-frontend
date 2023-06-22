@@ -121,7 +121,7 @@ def main():
 
         - Mujeeb Rahman KK and Subashini MM. "Identification of Autism in Children Using Static Facial Features and Deep Neural Networks." *Brain Sci*, vol. 12, no. 1, 2022, article 94. doi: [10.3390/brainsci12010094](https://doi.org/10.3390/brainsci12010094). PMID: 35053837; PMCID: PMC8773918. [1]
 
-        - Naomi Scott, Alex Lee Jones, Robin Stewart Samuel Kramer, and Robert Ward. "Deep Learning for Autism Diagnosis and Facial Analysis in Children." *Frontiers in Computational Neuroscience*, vol. 15, 2022, article 789998. doi: [10.3389/fncom.2021.789998](https://doi.org/10.3389/fncom.2021.789998). ISSN: 1662-5188. [2]
+        - Mohammad-Parsa Hosseini, Madison Beary, Alex Hadsell, Ryan Messersmith and Hamid Soltanian-Zadeh. "Deep Learning for Autism Diagnosis and Facial Analysis in Children." *Frontiers in Computational Neuroscience*, vol. 15, 2022, article 789998. doi: [10.3389/fncom.2021.789998](https://doi.org/10.3389/fncom.2021.789998). ISSN: 1662-5188. [2]
 
         - Naomi Jane Scott, Alex Lee Jones, Robin Stewart Samuel Kramer, and Robert Ward. "Facial dimorphism in autistic quotient scores." *Clinical Psychological Science*, vol. 3, no. 2, 2015, pp. 230–241. doi: [10.1177/2167702614534238](https://doi.org/10.1177/2167702614534238). [3]
         ''')
