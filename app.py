@@ -89,6 +89,8 @@ def main():
     - **Score below 30%:** <br> Indicates a lower likelihood of ASD-related facial features.
     - **Score between 30% to 70%:**<br> Suggests a moderate likelihood of ASD-related facial features.
     - **Score above 70%:**<br> Indicates a higher likelihood of ASD-related facial features.
+
+    The accuracy of prediction of the model is 89%, meaning 1/10 predictions could be incorrect. Please try several images in order to ensure the suggested result is more accurate.
 ''', unsafe_allow_html=True)
 
         st.write('<h3 style="color: #2E86EF;"> Background </h3>', unsafe_allow_html=True)
